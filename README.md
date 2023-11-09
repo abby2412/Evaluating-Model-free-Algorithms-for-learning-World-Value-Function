@@ -21,8 +21,7 @@ Reinforcement learning (RL) is a machine learning method that is a framework for
 - soft-Actor-critic.py is the implementation of the soft actor-critic algo on pendulum domain 
 - DQN_Cartpole_final.py is the implementation of the DQN algo on cartpole domain
 - Q_SARSA_VF_final.py is the implementation of the q-learning and sarsa algo on cliff-walking domain but with the value function (not world-value function)
-- 
 
 ### Packages needed
 
-There are certain packages needed, but for certain algorithms certain versions of these packages were needed.
+There are certain packages needed, but for certain algorithms certain versions of these packages were needed. These version of each packages are in the requirements1 and requirements2 files.
